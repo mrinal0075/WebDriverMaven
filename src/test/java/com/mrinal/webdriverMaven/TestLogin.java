@@ -22,6 +22,8 @@ public class TestLogin {
 	public void doLogin() {
 		
 		driver.get("https://www.gmail.com/");
+		
+		//Added this comment
 	}
 	
 	@AfterSuite
