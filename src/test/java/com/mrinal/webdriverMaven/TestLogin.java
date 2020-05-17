@@ -14,7 +14,7 @@ public class TestLogin {
 	@BeforeSuite
 	public void startConnection() {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\MD056549\\Documents\\Seleniumstuff\\chromedriver.exe");
-         driver=new ChromeDriver();
+         //driver=new ChromeDriver();
          
 		}
 		
